@@ -1,0 +1,20 @@
+.item{
+   list-style-type: none;
+   width: 100px;
+   height: 100px;
+   background-color:white;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   border:1px solid black;
+   cursor: pointer;
+   font-size: large;
+}
+.operator{
+   color:black;
+   background-color:rgba(120, 231, 0, 0.8);
+   font-weight: 700;
+}
+.number{
+   background-color:
+}
